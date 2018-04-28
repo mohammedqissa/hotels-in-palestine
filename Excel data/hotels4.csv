@@ -1,0 +1,1187 @@
+,hotel_name,hotel_locality,hotel_rating,review_date,review_rating,user_location
+0,Shepherd Hotel,Bethlehem,4.0,2018,1.0, Austria
+1,Shepherd Hotel,Bethlehem,4.0,2017,3.0, Romania
+2,Shepherd Hotel,Bethlehem,4.0,2017,4.0, India
+3,Shepherd Hotel,Bethlehem,4.0,2017,5.0,Toronto
+4,Shepherd Hotel,Bethlehem,4.0,2016,3.0, Hungary
+5,Shepherd Hotel,Bethlehem,4.0,2016,5.0,India
+6,Shepherd Hotel,Bethlehem,4.0,2016,5.0, Wisconsin
+7,Shepherd Hotel,Bethlehem,4.0,2015,5.0, Germany
+8,Shepherd Hotel,Bethlehem,4.0,2015,4.0, Singapore
+9,Shepherd Hotel,Bethlehem,4.0,2015,3.0, Texas
+10,Shepherd Hotel,Bethlehem,4.0,2015,5.0, Italy
+11,Shepherd Hotel,Bethlehem,4.0,2015,2.0,Italy
+12,Shepherd Hotel,Bethlehem,4.0,2013,4.0, Oman
+13,Shepherd Hotel,Bethlehem,4.0,2013,4.0, Oman
+14,Shepherd Hotel,Bethlehem,4.0,2013,4.0, United Kingdom
+15,Shepherd Hotel,Bethlehem,4.0,2012,3.0,Tarshiha
+16,Shepherd Hotel,Bethlehem,4.0,2012,4.0, Illinois
+17,Shepherd Hotel,Bethlehem,4.0,2012,4.0, United Kingdom
+18,Shepherd Hotel,Bethlehem,4.0,2012,5.0,England
+19,Shepherd Hotel,Bethlehem,4.0,2012,5.0, United Kingdom
+20,Shepherd Hotel,Bethlehem,4.0,2011,5.0, United Kingdom
+21,Shepherd Hotel,Bethlehem,4.0,2011,4.0, Singapore
+22,Shepherd Hotel,Bethlehem,4.0,2010,4.0, North Carolina
+23,Caritas Betharram Center,Bethlehem,4.0,2017,4.0, Austria
+24,Caritas Betharram Center,Bethlehem,4.0,2016,5.0, New York
+25,Caritas Betharram Center,Bethlehem,4.0,2016,5.0, Austria
+26,Golden Park Resort,Bethlehem,4.0,2017,4.0, Finland
+27,Golden Park Resort,Bethlehem,4.0,2016,3.0, California
+28,Golden Park Resort,Bethlehem,4.0,2015,5.0, Denmark
+29,Golden Park Resort,Bethlehem,4.0,2015,4.0, United Kingdom
+30,Golden Park Resort,Bethlehem,4.0,2014,4.0, Philippines
+31,Golden Park Resort,Bethlehem,4.0,2013,4.0, India
+32,Grand Park Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Attiki
+33,Grand Park Hotel Bethlehem,Bethlehem,4.0,2017,4.0, Philippines
+34,Grand Park Hotel Bethlehem,Bethlehem,4.0,2017,4.0, Turkey
+35,Grand Park Hotel Bethlehem,Bethlehem,4.0,2017,4.0,Baton rouge
+36,Grand Park Hotel Bethlehem,Bethlehem,4.0,2017,4.0, Spain
+37,Grand Park Hotel Bethlehem,Bethlehem,4.0,2017,5.0,Israel
+38,Grand Park Hotel Bethlehem,Bethlehem,4.0,2016,2.0, Florida
+39,Grand Park Hotel Bethlehem,Bethlehem,4.0,2016,3.0, Philippines
+40,Grand Park Hotel Bethlehem,Bethlehem,4.0,2016,4.0, Israel
+41,Grand Park Hotel Bethlehem,Bethlehem,4.0,2016,5.0,Bloemfontein
+42,Grand Park Hotel Bethlehem,Bethlehem,4.0,2015,4.0, United Kingdom
+43,Grand Park Hotel Bethlehem,Bethlehem,4.0,2015,3.0, California
+44,Grand Park Hotel Bethlehem,Bethlehem,4.0,2015,4.0, New York
+45,Grand Park Hotel Bethlehem,Bethlehem,4.0,2015,3.0, California
+46,Grand Park Hotel Bethlehem,Bethlehem,4.0,2015,4.0, Indonesia
+47,Grand Park Hotel Bethlehem,Bethlehem,4.0,2015,5.0,California
+48,Grand Park Hotel Bethlehem,Bethlehem,4.0,2015,5.0,harrisburg pa
+49,Grand Park Hotel Bethlehem,Bethlehem,4.0,2015,4.0,SC
+50,Grand Park Hotel Bethlehem,Bethlehem,4.0,2015,5.0, Pennsylvania
+51,Grand Park Hotel Bethlehem,Bethlehem,4.0,2014,5.0, United Kingdom
+52,Grand Park Hotel Bethlehem,Bethlehem,4.0,2014,4.0, United Kingdom
+53,Grand Park Hotel Bethlehem,Bethlehem,4.0,2014,5.0,North Carolina
+54,Grand Park Hotel Bethlehem,Bethlehem,4.0,2014,4.0,Moscow
+55,Grand Park Hotel Bethlehem,Bethlehem,4.0,2014,5.0, New Zealand
+56,Grand Park Hotel Bethlehem,Bethlehem,4.0,2014,5.0,Brisbane
+57,Grand Park Hotel Bethlehem,Bethlehem,4.0,2014,5.0, United Kingdom
+58,Grand Park Hotel Bethlehem,Bethlehem,4.0,2014,4.0, Philippines
+59,The Diamond Hotel,Bethlehem,5.0,2018,5.0, Denmark
+60,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,4.0, Hungary
+61,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,4.0, Australia
+62,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,5.0, Australia
+63,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,5.0, Romania
+64,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,4.0, Romania
+65,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,3.0, India
+66,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,4.0, Canada
+67,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,4.0, Montana
+68,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,5.0,Puerto Rico
+69,Paradise Hotel Bethlehem,Bethlehem,3.0,2017,2.0, Serbia
+70,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,2.0, Hungary
+71,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,5.0, United Kingdom
+72,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,5.0, United Kingdom
+73,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,4.0, Cyprus
+74,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,2.0, Jordan
+75,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,4.0, India
+76,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,5.0, Minnesota
+77,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,3.0, United Kingdom
+78,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,4.0, United Kingdom
+79,Paradise Hotel Bethlehem,Bethlehem,3.0,2016,2.0,Bulgaria
+80,Paradise Hotel Bethlehem,Bethlehem,3.0,2015,5.0, Romania
+81,Paradise Hotel Bethlehem,Bethlehem,3.0,2015,3.0, United Kingdom
+82,Paradise Hotel Bethlehem,Bethlehem,3.0,2015,3.0, Missouri
+83,Paradise Hotel Bethlehem,Bethlehem,3.0,2015,4.0, California
+84,Paradise Hotel Bethlehem,Bethlehem,3.0,2015,4.0,surrey
+85,Paradise Hotel Bethlehem,Bethlehem,3.0,2014,3.0, Greece
+86,Paradise Hotel Bethlehem,Bethlehem,3.0,2014,4.0, United Kingdom
+87,Paradise Hotel Bethlehem,Bethlehem,3.0,2014,3.0,Ireland
+88,Paradise Hotel Bethlehem,Bethlehem,3.0,2014,4.0,Slovakia
+89,Paradise Hotel Bethlehem,Bethlehem,3.0,2014,4.0, Kentucky
+90,Paradise Hotel Bethlehem,Bethlehem,3.0,2013,4.0, California
+91,Paradise Hotel Bethlehem,Bethlehem,3.0,2013,3.0, United Kingdom
+92,Paradise Hotel Bethlehem,Bethlehem,3.0,2013,2.0, UK
+93,Paradise Hotel Bethlehem,Bethlehem,3.0,2013,2.0, Massachusetts
+94,Paradise Hotel Bethlehem,Bethlehem,3.0,2013,4.0, Sri Lanka
+95,Paradise Hotel Bethlehem,Bethlehem,3.0,2012,3.0, United Kingdom
+96,Paradise Hotel Bethlehem,Bethlehem,3.0,2012,5.0,India
+97,Paradise Hotel Bethlehem,Bethlehem,3.0,2012,5.0, Missouri
+98,Paradise Hotel Bethlehem,Bethlehem,3.0,2011,2.0,London
+99,Paradise Hotel Bethlehem,Bethlehem,3.0,2011,4.0, China
+100,Paradise Hotel Bethlehem,Bethlehem,3.0,2011,5.0, England
+101,Paradise Hotel Bethlehem,Bethlehem,3.0,2011,1.0, Italy
+102,Paradise Hotel Bethlehem,Bethlehem,3.0,2010,1.0,Gold Coast
+103,Paradise Hotel Bethlehem,Bethlehem,3.0,2010,1.0, Russia
+104,Shepherd Plaza Hotel,Bethlehem,5.0,2017,3.0,Lagos
+105,Shepherd Plaza Hotel,Bethlehem,5.0,2017,5.0, Österreich
+106,Shepherd Plaza Hotel,Bethlehem,5.0,2017,5.0, Poland
+107,Shepherd Plaza Hotel,Bethlehem,5.0,2017,5.0, United Kingdom
+108,Shepherd Plaza Hotel,Bethlehem,5.0,2017,5.0, United Kingdom
+109,Shepherd Plaza Hotel,Bethlehem,5.0,2017,5.0, Mali
+110,Shepherd Plaza Hotel,Bethlehem,5.0,2017,5.0, France
+111,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Poland
+112,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, United Kingdom
+113,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Israel
+114,Shepherd Plaza Hotel,Bethlehem,5.0,2016,2.0, Israel
+115,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Japan
+116,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Israel
+117,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Pennsylvania
+118,Shepherd Plaza Hotel,Bethlehem,5.0,2016,4.0, Singapore
+119,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Israel
+120,Shepherd Plaza Hotel,Bethlehem,5.0,2016,4.0,Singapore
+121,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Romania
+122,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Romania
+123,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Mali
+124,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Poland
+125,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Israel
+126,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Turkey
+127,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Romania
+128,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Poland
+129,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, France
+130,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, RJ
+131,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0,Rio
+132,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Turkey
+133,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Israel
+134,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0, Jordan
+135,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0,Jordan
+136,Shepherd Plaza Hotel,Bethlehem,5.0,2016,5.0,Beit Sahour
+137,Shepherd Plaza Hotel,Bethlehem,5.0,2015,5.0, India
+138,Shepherd Plaza Hotel,Bethlehem,5.0,2015,4.0, Texas
+139,Shepherd Plaza Hotel,Bethlehem,5.0,2014,5.0, Florida
+140,Shepherd Plaza Hotel,Bethlehem,5.0,2014,5.0, Spain
+141,Shepherd Plaza Hotel,Bethlehem,5.0,2014,5.0, United Arab Emirates
+142,Shepherd Plaza Hotel,Bethlehem,5.0,2014,5.0, Palestinian Territories
+143,Shepherd Plaza Hotel,Bethlehem,5.0,2013,5.0, Austria
+144,Shepherd Plaza Hotel,Bethlehem,5.0,2013,4.0, UK
+145,Shepherd Plaza Hotel,Bethlehem,5.0,2013,3.0, Denmark
+146,Shepherd Plaza Hotel,Bethlehem,5.0,2012,4.0,Angus
+147,Shepherd Plaza Hotel,Bethlehem,5.0,2012,5.0,Rio
+148,Shepherd Plaza Hotel,Bethlehem,5.0,2012,3.0, Austria
+149,Shepherd Plaza Hotel,Bethlehem,5.0,2011,3.0, India
+150,Angel Hotel,Beit Jala,4.0,2017,3.0, Oregon
+151,Angel Hotel,Beit Jala,4.0,2017,4.0, Germany
+152,Angel Hotel,Beit Jala,4.0,2017,3.0, South Dakota
+153,Angel Hotel,Beit Jala,4.0,2017,5.0, Tanzania
+154,Angel Hotel,Beit Jala,4.0,2017,4.0, Iowa
+155,Angel Hotel,Beit Jala,4.0,2017,5.0, Florida
+156,Angel Hotel,Beit Jala,4.0,2017,4.0, Indiana
+157,Angel Hotel,Beit Jala,4.0,2017,4.0,Texas
+158,Angel Hotel,Beit Jala,4.0,2016,3.0, FL
+159,Angel Hotel,Beit Jala,4.0,2016,5.0, Malaysia
+160,Angel Hotel,Beit Jala,4.0,2016,5.0, Ohio
+161,Angel Hotel,Beit Jala,4.0,2016,4.0, New York
+162,Angel Hotel,Beit Jala,4.0,2016,4.0, Israel
+163,Angel Hotel,Beit Jala,4.0,2015,4.0, India
+164,Angel Hotel,Beit Jala,4.0,2015,5.0, United Arab Emirates
+165,Angel Hotel,Beit Jala,4.0,2015,4.0, United Kingdom
+166,Angel Hotel,Beit Jala,4.0,2015,4.0, NC
+167,Angel Hotel,Beit Jala,4.0,2015,5.0, GA
+168,Angel Hotel,Beit Jala,4.0,2015,4.0, CT
+169,Angel Hotel,Beit Jala,4.0,2015,3.0, Pennsylvania
+170,Angel Hotel,Beit Jala,4.0,2015,3.0,Nairobi
+171,Angel Hotel,Beit Jala,4.0,2015,2.0, North Carolina
+172,Angel Hotel,Beit Jala,4.0,2014,5.0, Texas
+173,Angel Hotel,Beit Jala,4.0,2014,4.0, Israel
+174,Angel Hotel,Beit Jala,4.0,2014,4.0, United Kingdom
+175,Angel Hotel,Beit Jala,4.0,2014,4.0, India
+176,Angel Hotel,Beit Jala,4.0,2014,3.0,Cincinnati
+177,Angel Hotel,Beit Jala,4.0,2014,4.0, Texas
+178,Angel Hotel,Beit Jala,4.0,2014,5.0, United Kingdom
+179,Angel Hotel,Beit Jala,4.0,2014,5.0, Illinois
+180,Angel Hotel,Beit Jala,4.0,2014,5.0, Israel
+181,Angel Hotel,Beit Jala,4.0,2014,5.0, United Kingdom
+182,Angel Hotel,Beit Jala,4.0,2014,4.0, Ohio
+183,Angel Hotel,Beit Jala,4.0,2014,5.0, Chile
+184,Angel Hotel,Beit Jala,4.0,2014,4.0,North Potomac
+185,Angel Hotel,Beit Jala,4.0,2014,2.0, Virginia
+186,Angel Hotel,Beit Jala,4.0,2013,4.0, Texas
+187,Angel Hotel,Beit Jala,4.0,2013,4.0, United Kingdom
+188,Angel Hotel,Beit Jala,4.0,2013,5.0,London
+189,Angel Hotel,Beit Jala,4.0,2013,4.0,Russia
+190,Angel Hotel,Beit Jala,4.0,2013,5.0, United Kingdom
+191,Angel Hotel,Beit Jala,4.0,2013,4.0, Georgia
+192,Angel Hotel,Beit Jala,4.0,2013,4.0,ELLINGTON
+193,Angel Hotel,Beit Jala,4.0,2013,5.0, Jordan
+194,Angel Hotel,Beit Jala,4.0,2013,5.0, South Carolina
+195,Angel Hotel,Beit Jala,4.0,2012,5.0, United Kingdom
+196,Angel Hotel,Beit Jala,4.0,2012,5.0, Alberta
+197,Angel Hotel,Beit Jala,4.0,2012,5.0, Romania
+198,Angel Hotel,Beit Jala,4.0,2011,5.0, Slovakia
+199,Angel Hotel,Beit Jala,4.0,2011,5.0, Jordan
+200,Angel Hotel,Beit Jala,4.0,2011,4.0, Denmark
+201,Murad Tourist Resort,Bethlehem,3.0,2017,1.0, Israel
+202,Murad Tourist Resort,Bethlehem,3.0,2016,5.0,Jerusalem
+203,Murad Tourist Resort,Bethlehem,3.0,2016,4.0, India
+204,Murad Tourist Resort,Bethlehem,3.0,2014,3.0, Oregon
+205,Murad Tourist Resort,Bethlehem,3.0,2013,3.0, Massachusetts
+206,Murad Tourist Resort,Bethlehem,3.0,2013,3.0,Orange County
+207,Murad Tourist Resort,Bethlehem,3.0,2011,5.0,Ipswich
+208,Murad Tourist Resort,Bethlehem,3.0,2011,4.0, Hungary
+209,Murad Tourist Resort,Bethlehem,3.0,2011,5.0, United Kingdom
+210,Murad Tourist Resort,Bethlehem,3.0,2011,5.0, United Kingdom
+211,Murad Tourist Resort,Bethlehem,3.0,2010,1.0,palestine
+212,Grand Hotel Bethlehem,Bethlehem,3.0,2017,4.0,Scotland
+213,Grand Hotel Bethlehem,Bethlehem,3.0,2016,4.0, CA
+214,Grand Hotel Bethlehem,Bethlehem,3.0,2016,1.0, United Kingdom
+215,Grand Hotel Bethlehem,Bethlehem,3.0,2015,4.0, Maryland
+216,Grand Hotel Bethlehem,Bethlehem,3.0,2015,5.0, Virginia
+217,Grand Hotel Bethlehem,Bethlehem,3.0,2015,4.0, United Arab Emirates
+218,Nativity Bells Hotel,Bethlehem,3.0,2016,3.0, India
+219,Nativity Bells Hotel,Bethlehem,3.0,2016,5.0, New York
+220,Nativity Bells Hotel,Bethlehem,3.0,2015,4.0, Sri Lanka
+221,Nativity Bells Hotel,Bethlehem,3.0,2014,5.0, Poland
+222,Nativity Bells Hotel,Bethlehem,3.0,2014,4.0, India
+223,Nativity Bells Hotel,Bethlehem,3.0,2014,1.0,United States
+224,Nativity Bells Hotel,Bethlehem,3.0,2013,5.0, Australia
+225,Nativity Bells Hotel,Bethlehem,3.0,2013,5.0, Israel
+226,Nativity Bells Hotel,Bethlehem,3.0,2013,5.0, Czech Republic
+227,Nativity Bells Hotel,Bethlehem,3.0,2013,3.0, India
+228,Nativity Bells Hotel,Bethlehem,3.0,2013,4.0, India
+229,Nativity Bells Hotel,Bethlehem,3.0,2013,3.0, pembs
+230,Nativity Bells Hotel,Bethlehem,3.0,2013,4.0, India
+231,Nativity Bells Hotel,Bethlehem,3.0,2012,4.0, Colorado
+232,Nativity Bells Hotel,Bethlehem,3.0,2012,4.0,California
+233,Nativity Bells Hotel,Bethlehem,3.0,2012,5.0,Bucharest
+234,Nativity Bells Hotel,Bethlehem,3.0,2011,4.0, Romania
+235,Bethlehem Star Hotel,Bethlehem,3.0,2018,4.0, New York
+236,Bethlehem Star Hotel,Bethlehem,3.0,2017,3.0, India
+237,Bethlehem Star Hotel,Bethlehem,3.0,2017,2.0, United Kingdom
+238,Bethlehem Star Hotel,Bethlehem,3.0,2017,2.0,Southampton
+239,Bethlehem Star Hotel,Bethlehem,3.0,2017,3.0,Galway
+240,Bethlehem Star Hotel,Bethlehem,3.0,2017,5.0, United Kingdom
+241,Bethlehem Star Hotel,Bethlehem,3.0,2017,4.0, Italy
+242,Bethlehem Star Hotel,Bethlehem,3.0,2016,4.0, Ireland
+243,Bethlehem Star Hotel,Bethlehem,3.0,2016,4.0, India
+244,Bethlehem Star Hotel,Bethlehem,3.0,2016,3.0, Canada
+245,Bethlehem Star Hotel,Bethlehem,3.0,2016,4.0, Sweden
+246,Bethlehem Star Hotel,Bethlehem,3.0,2016,2.0, Ireland
+247,Bethlehem Star Hotel,Bethlehem,3.0,2015,5.0, Missouri
+248,Bethlehem Star Hotel,Bethlehem,3.0,2015,4.0, United Kingdom
+249,Bethlehem Star Hotel,Bethlehem,3.0,2015,4.0, Sri Lanka
+250,Bethlehem Star Hotel,Bethlehem,3.0,2015,5.0, Ireland
+251,Bethlehem Star Hotel,Bethlehem,3.0,2015,3.0,Ireland
+252,Bethlehem Star Hotel,Bethlehem,3.0,2015,4.0,Birmingham
+253,Bethlehem Star Hotel,Bethlehem,3.0,2015,4.0, United Kingdom
+254,Bethlehem Star Hotel,Bethlehem,3.0,2014,3.0, Ireland
+255,Bethlehem Star Hotel,Bethlehem,3.0,2014,4.0, California
+256,Bethlehem Star Hotel,Bethlehem,3.0,2014,5.0, Palestinian Territories
+257,Bethlehem Star Hotel,Bethlehem,3.0,2014,5.0, New York
+258,Bethlehem Star Hotel,Bethlehem,3.0,2014,4.0, United Kingdom
+259,Bethlehem Star Hotel,Bethlehem,3.0,2014,4.0, Slovakia
+260,Bethlehem Star Hotel,Bethlehem,3.0,2013,4.0,manchester
+261,Bethlehem Star Hotel,Bethlehem,3.0,2013,3.0,coorg
+262,Bethlehem Star Hotel,Bethlehem,3.0,2013,4.0, Poland
+263,Bethlehem Star Hotel,Bethlehem,3.0,2012,2.0, Switzerland
+264,Bethlehem Star Hotel,Bethlehem,3.0,2012,4.0,Rijeka
+265,Bethlehem Star Hotel,Bethlehem,3.0,2011,4.0, United Kingdom
+266,Bethlehem Star Hotel,Bethlehem,3.0,2011,4.0,West Mids
+267,Bethlehem Star Hotel,Bethlehem,3.0,2011,3.0,London
+268,Bethlehem Star Hotel,Bethlehem,3.0,2010,4.0, California
+269,Bethlehem Star Hotel,Bethlehem,3.0,2010,4.0, United Kingdom
+270,Orient Palace Hotel,Bethlehem,3.0,2017,5.0, Australia
+271,Orient Palace Hotel,Bethlehem,3.0,2017,3.0,Singapore
+272,Orient Palace Hotel,Bethlehem,3.0,2017,3.0, Australia
+273,Orient Palace Hotel,Bethlehem,3.0,2017,1.0,ottawa
+274,Orient Palace Hotel,Bethlehem,3.0,2016,5.0,Nebraska
+275,Orient Palace Hotel,Bethlehem,3.0,2016,4.0, Illinois
+276,Orient Palace Hotel,Bethlehem,3.0,2016,4.0, United Kingdom
+277,Orient Palace Hotel,Bethlehem,3.0,2016,3.0, California
+278,Orient Palace Hotel,Bethlehem,3.0,2016,4.0, United Kingdom
+279,Orient Palace Hotel,Bethlehem,3.0,2016,5.0, Singapore
+280,Orient Palace Hotel,Bethlehem,3.0,2016,5.0, California
+281,Orient Palace Hotel,Bethlehem,3.0,2015,1.0, Canada
+282,Blue Beach Resort,Gaza City,3.0,2016,4.0, Egypt
+283,Blue Beach Resort,Gaza City,3.0,2015,2.0, Egypt
+284,Blue Beach Resort,Gaza City,3.0,2015,1.0, New York
+285,Hotel Al Qasr,Nablus,4.0,2016,3.0, United Kingdom
+286,Hotel Al Qasr,Nablus,4.0,2016,4.0, United Kingdom
+287,Hotel Al Qasr,Nablus,4.0,2016,4.0,Geneva
+288,Hotel Al Qasr,Nablus,4.0,2016,4.0, Saudi Arabia
+289,Hotel Al Qasr,Nablus,4.0,2015,5.0, MA
+290,Hotel Al Qasr,Nablus,4.0,2015,5.0, United Kingdom
+291,Hotel Al Qasr,Nablus,4.0,2015,3.0, Italy
+292,Hotel Al Qasr,Nablus,4.0,2015,4.0, Washington
+293,Hotel Al Qasr,Nablus,4.0,2014,5.0,Palestinian Territories
+294,Hotel Al Qasr,Nablus,4.0,2013,4.0, Italy
+295,Hotel Al Qasr,Nablus,4.0,2013,5.0,uk
+296,Commodore Hotel Gaza,Gaza City,4.0,2016,4.0,East Jerusalem
+297,Commodore Hotel Gaza,Gaza City,4.0,2011,4.0, Canada
+298,Commodore Hotel Gaza,Gaza City,4.0,2010,5.0,Sydney
+299,Commodore Hotel Gaza,Gaza City,4.0,2010,5.0,Melbourne
+300,ArcMed Hotels Al Mashtal Gaza,Gaza City,3.0,2017,5.0,Nablus 
+301,ArcMed Hotels Al Mashtal Gaza,Gaza City,3.0,2017,5.0, California
+302,ArcMed Hotels Al Mashtal Gaza,Gaza City,3.0,2016,1.0, Egypt
+303,ArcMed Hotels Al Mashtal Gaza,Gaza City,3.0,2016,5.0, Washington
+304,ArcMed Hotels Al Mashtal Gaza,Gaza City,3.0,2013,4.0,London
+305,ArcMed Hotels Al Mashtal Gaza,Gaza City,3.0,2012,3.0, United Kingdom
+306,ArcMed Hotels Al Mashtal Gaza,Gaza City,3.0,2012,3.0, Israel
+307,Al Deira,Gaza City,4.0,2016,5.0, Egypt
+308,Al Deira,Gaza City,4.0,2016,1.0, New York
+309,Al Deira,Gaza City,4.0,2016,4.0, United Kingdom
+310,Al Deira,Gaza City,4.0,2015,5.0, Canada
+311,Al Deira,Gaza City,4.0,2015,4.0, Germany
+312,Al Deira,Gaza City,4.0,2013,5.0, Norway
+313,Al Deira,Gaza City,4.0,2013,4.0, Turkey
+314,Al Deira,Gaza City,4.0,2012,3.0, Ireland
+315,Al Deira,Gaza City,4.0,2012,5.0, United Kingdom
+316,Al Deira,Gaza City,4.0,2012,5.0, United Kingdom
+317,Al Deira,Gaza City,4.0,2012,5.0,Norway
+318,Al Deira,Gaza City,4.0,2011,5.0, Germany
+319,Al Deira,Gaza City,4.0,2011,5.0, Israel
+320,Al Deira,Gaza City,4.0,2009,5.0,Barcelona
+321,Al Deira,Gaza City,4.0,2009,5.0,California
+322,Al Deira,Gaza City,4.0,2009,5.0, Canada
+323,Al Deira,Gaza City,4.0,2005,5.0, minneapolis
+324,Haddad Tourism Village,Jenin,3.0,2016,4.0, Palestinian Territories
+325,Haddad Tourism Village,Jenin,3.0,2016,4.0, Israel
+326,Alexander Hotel,Bethlehem,4.0,2017,4.0, ca
+327,Alexander Hotel,Bethlehem,4.0,2017,5.0,United Arab Emirates
+328,Alexander Hotel,Bethlehem,4.0,2017,5.0, North Carolina
+329,Alexander Hotel,Bethlehem,4.0,2017,5.0,West Hills
+330,Alexander Hotel,Bethlehem,4.0,2017,4.0, Massachusetts
+331,Alexander Hotel,Bethlehem,4.0,2016,4.0, United Kingdom
+332,Alexander Hotel,Bethlehem,4.0,2016,5.0, UK
+333,Alexander Hotel,Bethlehem,4.0,2016,5.0, Minnesota
+334,Alexander Hotel,Bethlehem,4.0,2016,5.0, Indiana
+335,Alexander Hotel,Bethlehem,4.0,2016,5.0, Texas
+336,Alexander Hotel,Bethlehem,4.0,2016,5.0, Indiana
+337,Alexander Hotel,Bethlehem,4.0,2016,5.0, Illinois
+338,Alexander Hotel,Bethlehem,4.0,2016,5.0, Pennsylvania
+339,Alexander Hotel,Bethlehem,4.0,2016,5.0, Ukraine
+340,Alexander Hotel,Bethlehem,4.0,2015,4.0, China
+341,Alexander Hotel,Bethlehem,4.0,2015,5.0, District of Columbia
+342,Alexander Hotel,Bethlehem,4.0,2015,1.0, HaZafon
+343,Alexander Hotel,Bethlehem,4.0,2014,4.0, United Kingdom
+344,Alexander Hotel,Bethlehem,4.0,2014,4.0, Tennessee
+345,Alexander Hotel,Bethlehem,4.0,2013,5.0, Palestinian Territories
+346,Alexander Hotel,Bethlehem,4.0,2012,5.0, Al Qahirah
+347,Alexander Hotel,Bethlehem,4.0,2012,4.0, Illinois
+348,Alexander Hotel,Bethlehem,4.0,2012,5.0, United Kingdom
+349,Casablanca Hotel Ramallah,Ramallah,3.0,2017,3.0, Ohio
+350,Casablanca Hotel Ramallah,Ramallah,3.0,2017,1.0, United Kingdom
+351,Casablanca Hotel Ramallah,Ramallah,3.0,2017,3.0, Spain
+352,Casablanca Hotel Ramallah,Ramallah,3.0,2016,4.0,Puerto Rico
+353,Casablanca Hotel Ramallah,Ramallah,3.0,2016,4.0, California
+354,Casablanca Hotel Ramallah,Ramallah,3.0,2015,4.0,AmericanInPal
+355,Royal Suites,Nablus,4.0,2017,4.0, Greece
+356,Royal Suites,Nablus,4.0,2016,4.0, Greece
+357,Grand Palace Hotel,Gaza City,4.0,2011,4.0,St. Petersberg
+358,Grand Palace Hotel,Gaza City,4.0,2010,4.0, Canada
+359,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+360,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+361,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+362,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+363,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+364,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+365,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+366,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+367,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+368,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+369,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+370,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+371,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+372,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+373,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+374,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+375,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+376,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+377,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+378,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+379,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+380,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+381,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+382,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+383,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+384,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+385,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+386,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+387,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+388,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+389,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+390,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+391,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+392,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+393,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+394,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+395,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+396,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+397,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+398,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+399,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+400,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+401,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+402,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+403,Grand Park Hotel,Ramallah,4.0,2017,5.0, Palestinian Territories
+404,Grand Park Hotel,Ramallah,4.0,2017,4.0, Greece
+405,Grand Park Hotel,Ramallah,4.0,2017,4.0, Florida
+406,Grand Park Hotel,Ramallah,4.0,2017,1.0, Israel
+407,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+408,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+409,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+410,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+411,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+412,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+413,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+414,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+415,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+416,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+417,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+418,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+419,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+420,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+421,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+422,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+423,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+424,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+425,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+426,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+427,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+428,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+429,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+430,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+431,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+432,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+433,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+434,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+435,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+436,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+437,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+438,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+439,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+440,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+441,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+442,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+443,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+444,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+445,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+446,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+447,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+448,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+449,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+450,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+451,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+452,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+453,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+454,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+455,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+456,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+457,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+458,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+459,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+460,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+461,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+462,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+463,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+464,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+465,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+466,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+467,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, The Netherlands
+468,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Colorado
+469,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0,Poland
+470,Talitha Kumi Guest House,Bethlehem,5.0,2017,4.0,القدس 
+471,Talitha Kumi Guest House,Bethlehem,5.0,2017,5.0, Limassol
+472,Ararat Hotel,Bethlehem,4.0,2017,3.0, Australia
+473,Ararat Hotel,Bethlehem,4.0,2017,5.0,Puerto Rico
+474,Ararat Hotel,Bethlehem,4.0,2017,5.0,Palestine
+475,Ararat Hotel,Bethlehem,4.0,2017,3.0, Australia
+476,Ararat Hotel,Bethlehem,4.0,2017,5.0,Puerto Rico
+477,Ararat Hotel,Bethlehem,4.0,2017,5.0,Palestine
+478,Ararat Hotel,Bethlehem,4.0,2017,3.0, Australia
+479,Ararat Hotel,Bethlehem,4.0,2017,5.0,Puerto Rico
+480,Ararat Hotel,Bethlehem,4.0,2017,5.0,Palestine
+481,Ararat Hotel,Bethlehem,4.0,2017,3.0, Australia
+482,Ararat Hotel,Bethlehem,4.0,2017,5.0,Puerto Rico
+483,Ararat Hotel,Bethlehem,4.0,2017,5.0,Palestine
+484,Ararat Hotel,Bethlehem,4.0,2017,3.0, Australia
+485,Ararat Hotel,Bethlehem,4.0,2017,5.0,Puerto Rico
+486,Ararat Hotel,Bethlehem,4.0,2017,5.0,Palestine
+487,Ararat Hotel,Bethlehem,4.0,2017,3.0, Australia
+488,Ararat Hotel,Bethlehem,4.0,2017,5.0,Puerto Rico
+489,Ararat Hotel,Bethlehem,4.0,2017,5.0,Palestine
+490,Ararat Hotel,Bethlehem,4.0,2017,3.0, Australia
+491,Ararat Hotel,Bethlehem,4.0,2017,5.0,Puerto Rico
+492,Ararat Hotel,Bethlehem,4.0,2017,5.0,Palestine
+493,Ararat Hotel,Bethlehem,4.0,2017,3.0, Australia
+494,Ararat Hotel,Bethlehem,4.0,2017,5.0,Puerto Rico
+495,Ararat Hotel,Bethlehem,4.0,2017,5.0,Palestine
+496,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+497,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+498,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+499,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+500,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+501,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+502,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+503,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+504,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+505,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+506,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+507,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+508,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+509,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+510,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+511,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+512,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+513,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+514,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+515,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+516,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+517,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+518,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+519,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+520,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+521,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+522,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+523,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+524,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+525,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+526,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+527,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+528,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+529,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+530,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+531,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+532,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+533,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+534,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+535,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+536,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+537,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+538,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+539,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+540,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+541,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+542,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+543,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+544,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+545,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+546,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+547,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+548,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+549,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+550,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+551,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+552,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+553,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+554,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+555,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+556,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+557,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+558,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+559,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+560,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+561,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+562,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+563,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+564,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+565,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+566,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+567,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+568,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+569,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+570,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+571,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+572,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+573,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+574,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+575,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+576,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+577,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+578,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+579,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+580,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+581,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+582,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+583,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+584,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+585,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+586,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+587,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+588,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+589,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+590,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+591,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+592,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+593,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+594,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+595,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+596,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+597,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+598,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+599,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+600,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+601,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+602,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+603,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+604,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+605,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+606,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+607,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+608,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+609,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+610,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+611,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+612,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+613,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+614,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+615,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+616,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+617,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+618,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+619,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+620,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+621,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+622,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+623,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+624,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+625,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+626,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+627,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+628,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+629,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+630,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+631,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+632,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+633,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+634,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0,Tamilnadu
+635,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, The Netherlands
+636,Jacir Palace Hotel Bethlehem,Bethlehem,4.0,2017,3.0, Luxembourg
+637,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+638,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+639,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+640,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+641,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+642,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+643,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+644,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+645,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+646,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+647,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+648,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+649,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+650,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+651,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+652,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+653,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+654,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+655,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+656,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+657,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+658,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+659,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+660,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+661,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+662,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+663,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+664,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+665,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+666,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+667,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+668,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+669,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+670,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, England
+671,Bethlehem Hotel,Bethlehem,4.0,2017,3.0, Denmark
+672,Bethlehem Hotel,Bethlehem,4.0,2017,4.0, Norway
+673,Caesar Hotel,Ramallah,4.0,2017,5.0, Illinois
+674,Caesar Hotel,Ramallah,4.0,2017,5.0, California
+675,Caesar Hotel,Ramallah,4.0,2017,5.0, Illinois
+676,Caesar Hotel,Ramallah,4.0,2017,5.0, California
+677,Caesar Hotel,Ramallah,4.0,2017,5.0, Illinois
+678,Caesar Hotel,Ramallah,4.0,2017,5.0, California
+679,Caesar Hotel,Ramallah,4.0,2017,5.0, Illinois
+680,Caesar Hotel,Ramallah,4.0,2017,5.0, California
+681,Caesar Hotel,Ramallah,4.0,2017,5.0, Illinois
+682,Caesar Hotel,Ramallah,4.0,2017,5.0, California
+683,Hotel Crystal Motel,Nablus,4.0,2016,4.0, United Kingdom
+684,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+685,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+686,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+687,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+688,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+689,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+690,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+691,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+692,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+693,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+694,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+695,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+696,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+697,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+698,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+699,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+700,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+701,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+702,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+703,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+704,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+705,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+706,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+707,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+708,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+709,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+710,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+711,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+712,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+713,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+714,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, Israel
+715,Taybeh Golden Hotel,Taybeh,5.0,2017,4.0, Romania
+716,Taybeh Golden Hotel,Taybeh,5.0,2017,5.0, United Kingdom
+717,Holy Family Hotel,Bethlehem,4.0,2017,4.0, Jordan
+718,Holy Family Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+719,Holy Family Hotel,Bethlehem,4.0,2016,1.0, India
+720,Holy Family Hotel,Bethlehem,4.0,2016,5.0, Ohio
+721,Holy Family Hotel,Bethlehem,4.0,2016,4.0, Romania
+722,Holy Family Hotel,Bethlehem,4.0,2017,4.0, Jordan
+723,Holy Family Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+724,Holy Family Hotel,Bethlehem,4.0,2016,1.0, India
+725,Holy Family Hotel,Bethlehem,4.0,2016,5.0, Ohio
+726,Holy Family Hotel,Bethlehem,4.0,2016,4.0, Romania
+727,Holy Family Hotel,Bethlehem,4.0,2017,4.0, Jordan
+728,Holy Family Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+729,Holy Family Hotel,Bethlehem,4.0,2016,1.0, India
+730,Holy Family Hotel,Bethlehem,4.0,2016,5.0, Ohio
+731,Holy Family Hotel,Bethlehem,4.0,2016,4.0, Romania
+732,Holy Family Hotel,Bethlehem,4.0,2017,4.0, Jordan
+733,Holy Family Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+734,Holy Family Hotel,Bethlehem,4.0,2016,1.0, India
+735,Holy Family Hotel,Bethlehem,4.0,2016,5.0, Ohio
+736,Holy Family Hotel,Bethlehem,4.0,2016,4.0, Romania
+737,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+738,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+739,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+740,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+741,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+742,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+743,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+744,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+745,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+746,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+747,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+748,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+749,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+750,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+751,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+752,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+753,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+754,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+755,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+756,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+757,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+758,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+759,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+760,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+761,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+762,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+763,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+764,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+765,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+766,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+767,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+768,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+769,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+770,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+771,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+772,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+773,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+774,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+775,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+776,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+777,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+778,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+779,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+780,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+781,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+782,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+783,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+784,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+785,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+786,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+787,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+788,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+789,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+790,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+791,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+792,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+793,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+794,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+795,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+796,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+797,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+798,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+799,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+800,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+801,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+802,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+803,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+804,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+805,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+806,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+807,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+808,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+809,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+810,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+811,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+812,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+813,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+814,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+815,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+816,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+817,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+818,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+819,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+820,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+821,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+822,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+823,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+824,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+825,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+826,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+827,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+828,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+829,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+830,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+831,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+832,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+833,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+834,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+835,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+836,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+837,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+838,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+839,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+840,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+841,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+842,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+843,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+844,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+845,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+846,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+847,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+848,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+849,Manger Square Hotel,Bethlehem,4.0,2017,4.0, Australia
+850,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+851,Manger Square Hotel,Bethlehem,4.0,2017,5.0, United Kingdom
+852,Manger Square Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+853,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+854,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+855,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+856,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+857,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+858,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+859,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+860,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+861,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+862,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+863,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+864,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+865,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+866,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+867,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+868,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+869,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+870,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+871,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+872,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+873,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+874,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+875,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+876,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+877,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+878,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+879,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+880,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+881,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+882,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+883,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+884,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+885,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+886,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+887,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+888,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+889,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+890,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+891,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+892,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+893,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+894,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+895,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+896,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+897,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+898,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+899,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+900,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+901,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+902,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+903,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+904,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+905,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+906,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+907,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+908,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+909,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+910,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+911,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+912,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+913,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+914,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+915,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+916,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+917,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+918,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+919,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+920,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+921,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+922,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+923,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+924,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+925,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+926,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+927,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+928,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+929,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+930,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+931,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+932,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+933,Royal Court Hotel,Ramallah,4.0,2017,4.0, England
+934,Royal Court Hotel,Ramallah,4.0,2017,5.0,New York
+935,Royal Court Hotel,Ramallah,4.0,2017,4.0, Ukraine
+936,Royal Court Hotel,Ramallah,4.0,2017,4.0, Germany
+937,Royal Court Hotel,Ramallah,4.0,2017,4.0,Birmingham
+938,City Inn Palace Hotel,Ramallah,3.0,2017,3.0, Italy
+939,City Inn Palace Hotel,Ramallah,3.0,2017,1.0, United Kingdom
+940,City Inn Palace Hotel,Ramallah,3.0,2017,3.0,Palestinian Territories
+941,City Inn Palace Hotel,Ramallah,3.0,2017,3.0, United Kingdom
+942,City Inn Palace Hotel,Ramallah,3.0,2017,3.0, Italy
+943,City Inn Palace Hotel,Ramallah,3.0,2017,1.0, United Kingdom
+944,City Inn Palace Hotel,Ramallah,3.0,2017,3.0,Palestinian Territories
+945,City Inn Palace Hotel,Ramallah,3.0,2017,3.0, United Kingdom
+946,City Inn Palace Hotel,Ramallah,3.0,2017,3.0, Italy
+947,City Inn Palace Hotel,Ramallah,3.0,2017,1.0, United Kingdom
+948,City Inn Palace Hotel,Ramallah,3.0,2017,3.0,Palestinian Territories
+949,City Inn Palace Hotel,Ramallah,3.0,2017,3.0, United Kingdom
+950,City Inn Palace Hotel,Ramallah,3.0,2017,3.0, Italy
+951,City Inn Palace Hotel,Ramallah,3.0,2017,1.0, United Kingdom
+952,City Inn Palace Hotel,Ramallah,3.0,2017,3.0,Palestinian Territories
+953,City Inn Palace Hotel,Ramallah,3.0,2017,3.0, United Kingdom
+954,Innova8ion,Bethlehem,4.0,2017,5.0, United Kingdom
+955,Innova8ion,Bethlehem,4.0,2017,4.0, United Kingdom
+956,Innova8ion,Bethlehem,4.0,2017,4.0, United Kingdom
+957,Millennium Palestine Ramallah,Ramallah,4.0,2017,4.0, District of Columbia
+958,Millennium Palestine Ramallah,Ramallah,4.0,2017,5.0, Romania
+959,Millennium Palestine Ramallah,Ramallah,4.0,2017,4.0,london
+960,Millennium Palestine Ramallah,Ramallah,4.0,2017,3.0, Switzerland
+961,Sancta Maria Hotel,Bethlehem,3.0,2017,5.0,Puerto Rico
+962,Sancta Maria Hotel,Bethlehem,3.0,2016,4.0, India
+963,Sancta Maria Hotel,Bethlehem,3.0,2015,2.0, Romania
+964,Sancta Maria Hotel,Bethlehem,3.0,2015,5.0,Riga
+965,Sancta Maria Hotel,Bethlehem,3.0,2014,4.0, The Netherlands
+966,Sancta Maria Hotel,Bethlehem,3.0,2017,5.0,Puerto Rico
+967,Sancta Maria Hotel,Bethlehem,3.0,2016,4.0, India
+968,Sancta Maria Hotel,Bethlehem,3.0,2015,2.0, Romania
+969,Sancta Maria Hotel,Bethlehem,3.0,2015,5.0,Riga
+970,Sancta Maria Hotel,Bethlehem,3.0,2014,4.0, The Netherlands
+971,Sancta Maria Hotel,Bethlehem,3.0,2017,5.0,Puerto Rico
+972,Sancta Maria Hotel,Bethlehem,3.0,2016,4.0, India
+973,Sancta Maria Hotel,Bethlehem,3.0,2015,2.0, Romania
+974,Sancta Maria Hotel,Bethlehem,3.0,2015,5.0,Riga
+975,Sancta Maria Hotel,Bethlehem,3.0,2014,4.0, The Netherlands
+976,Sancta Maria Hotel,Bethlehem,3.0,2017,5.0,Puerto Rico
+977,Sancta Maria Hotel,Bethlehem,3.0,2016,4.0, India
+978,Sancta Maria Hotel,Bethlehem,3.0,2015,2.0, Romania
+979,Sancta Maria Hotel,Bethlehem,3.0,2015,5.0,Riga
+980,Sancta Maria Hotel,Bethlehem,3.0,2014,4.0, The Netherlands
+981,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+982,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+983,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+984,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+985,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+986,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+987,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+988,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+989,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+990,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+991,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+992,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+993,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+994,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+995,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+996,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+997,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+998,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+999,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1000,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1001,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1002,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1003,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1004,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1005,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1006,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1007,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1008,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1009,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1010,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1011,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1012,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1013,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1014,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1015,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1016,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1017,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1018,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1019,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1020,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1021,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1022,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1023,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1024,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1025,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1026,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1027,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1028,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1029,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1030,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1031,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1032,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1033,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1034,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1035,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1036,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1037,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1038,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1039,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1040,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1041,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1042,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1043,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1044,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1045,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1046,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1047,Oasis Hotel Jericho,Jericho,4.0,2018,5.0,Worthing
+1048,Oasis Hotel Jericho,Jericho,4.0,2017,5.0, Ukraine
+1049,Oasis Hotel Jericho,Jericho,4.0,2017,4.0,Palestinian Territories
+1050,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1051,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1052,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1053,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1054,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1055,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1056,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1057,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1058,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1059,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1060,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1061,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1062,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1063,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1064,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1065,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1066,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1067,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1068,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1069,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1070,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1071,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1072,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1073,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1074,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1075,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1076,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1077,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1078,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1079,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1080,Jericho Resort Village,Jericho,4.0,2018,3.0, Utah
+1081,Jericho Resort Village,Jericho,4.0,2017,4.0, The Netherlands
+1082,Jericho Resort Village,Jericho,4.0,2017,5.0,Lokeren
+1083,Nativity Hotel,Bethlehem,4.0,2017,3.0,Durban
+1084,Nativity Hotel,Bethlehem,4.0,2017,3.0, null
+1085,Nativity Hotel,Bethlehem,4.0,2017,3.0, Romania
+1086,Nativity Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+1087,Nativity Hotel,Bethlehem,4.0,2017,5.0, MG
+1088,Nativity Hotel,Bethlehem,4.0,2017,3.0,Durban
+1089,Nativity Hotel,Bethlehem,4.0,2017,3.0, null
+1090,Nativity Hotel,Bethlehem,4.0,2017,3.0, Romania
+1091,Nativity Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+1092,Nativity Hotel,Bethlehem,4.0,2017,5.0, MG
+1093,Nativity Hotel,Bethlehem,4.0,2017,3.0,Durban
+1094,Nativity Hotel,Bethlehem,4.0,2017,3.0, null
+1095,Nativity Hotel,Bethlehem,4.0,2017,3.0, Romania
+1096,Nativity Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+1097,Nativity Hotel,Bethlehem,4.0,2017,5.0, MG
+1098,Nativity Hotel,Bethlehem,4.0,2017,3.0,Durban
+1099,Nativity Hotel,Bethlehem,4.0,2017,3.0, null
+1100,Nativity Hotel,Bethlehem,4.0,2017,3.0, Romania
+1101,Nativity Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+1102,Nativity Hotel,Bethlehem,4.0,2017,5.0, MG
+1103,Nativity Hotel,Bethlehem,4.0,2017,3.0,Durban
+1104,Nativity Hotel,Bethlehem,4.0,2017,3.0, null
+1105,Nativity Hotel,Bethlehem,4.0,2017,3.0, Romania
+1106,Nativity Hotel,Bethlehem,4.0,2017,4.0, United Kingdom
+1107,Nativity Hotel,Bethlehem,4.0,2017,5.0, MG
+1108,Roots Hotel,Gaza City,4.0,2017,4.0, Italy
+1109,Roots Hotel,Gaza City,4.0,2017,3.0,Gilze
+1110,Roots Hotel,Gaza City,4.0,2016,4.0, Israel
+1111,Roots Hotel,Gaza City,4.0,2016,4.0, United Kingdom
+1112,Roots Hotel,Gaza City,4.0,2016,4.0,All over Europe
+1113,Roots Hotel,Gaza City,4.0,2017,4.0, Italy
+1114,Roots Hotel,Gaza City,4.0,2017,3.0,Gilze
+1115,Roots Hotel,Gaza City,4.0,2016,4.0, Israel
+1116,Roots Hotel,Gaza City,4.0,2016,4.0, United Kingdom
+1117,Roots Hotel,Gaza City,4.0,2016,4.0,All over Europe
+1118,Roots Hotel,Gaza City,4.0,2017,4.0, Italy
+1119,Roots Hotel,Gaza City,4.0,2017,3.0,Gilze
+1120,Roots Hotel,Gaza City,4.0,2016,4.0, Israel
+1121,Roots Hotel,Gaza City,4.0,2016,4.0, United Kingdom
+1122,Roots Hotel,Gaza City,4.0,2016,4.0,All over Europe
+1123,Shepherds' House,Beit Sahour,4.0,2017,5.0, Palestinian Territories
+1124,Shepherds' House,Beit Sahour,4.0,2017,2.0, South Africa
+1125,Shepherds' House,Beit Sahour,4.0,2017,4.0, California
+1126,Shepherds' House,Beit Sahour,4.0,2016,3.0,Ha
+1127,Shepherds' House,Beit Sahour,4.0,2017,5.0, Palestinian Territories
+1128,Shepherds' House,Beit Sahour,4.0,2017,2.0, South Africa
+1129,Shepherds' House,Beit Sahour,4.0,2017,4.0, California
+1130,Shepherds' House,Beit Sahour,4.0,2016,3.0,Ha
+1131,Shepherds' House,Beit Sahour,4.0,2017,5.0, Palestinian Territories
+1132,Shepherds' House,Beit Sahour,4.0,2017,2.0, South Africa
+1133,Shepherds' House,Beit Sahour,4.0,2017,4.0, California
+1134,Shepherds' House,Beit Sahour,4.0,2016,3.0,Ha
+1135,Shepherds' House,Beit Sahour,4.0,2017,5.0, Palestinian Territories
+1136,Shepherds' House,Beit Sahour,4.0,2017,2.0, South Africa
+1137,Shepherds' House,Beit Sahour,4.0,2017,4.0, California
+1138,Shepherds' House,Beit Sahour,4.0,2016,3.0,Ha
+1139,Mirador Hotel & Restaurant,Ramallah,5.0,2012,5.0, Canada
+1140,Pilgrim Residence,Bethlehem,4.0,2017,5.0, California
+1141,Pilgrim Residence,Bethlehem,4.0,2015,5.0,Pennsylvania
+1142,Pilgrim Residence,Bethlehem,4.0,2015,5.0, England
+1143,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2016,5.0, Israel
+1144,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2016,5.0,Palestinian Territories
+1145,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2014,4.0, Palestinian Territories
+1146,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2013,5.0, Canada
+1147,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2016,5.0, Israel
+1148,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2016,5.0,Palestinian Territories
+1149,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2014,4.0, Palestinian Territories
+1150,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2013,5.0, Canada
+1151,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2016,5.0, Israel
+1152,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2016,5.0,Palestinian Territories
+1153,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2014,4.0, Palestinian Territories
+1154,Al-Mathaf Recreational and Cultural house,Gaza City,5.0,2013,5.0, Canada
+1155,Sahara Hotel,Bethlehem,4.0,2016,5.0, Qatar
+1156,Sahara Hotel,Bethlehem,4.0,2016,5.0, Qatar
+1157,Sahara Hotel,Bethlehem,4.0,2015,5.0,Norway
+1158,Sahara Hotel,Bethlehem,4.0,2015,4.0,United Kingdom
+1159,Sahara Hotel,Bethlehem,4.0,2014,4.0, Norway
+1160,Sahara Hotel,Bethlehem,4.0,2016,5.0, Qatar
+1161,Sahara Hotel,Bethlehem,4.0,2016,5.0, Qatar
+1162,Sahara Hotel,Bethlehem,4.0,2015,5.0,Norway
+1163,Sahara Hotel,Bethlehem,4.0,2015,4.0,United Kingdom
+1164,Sahara Hotel,Bethlehem,4.0,2014,4.0, Norway
+1165,Sahara Hotel,Bethlehem,4.0,2016,5.0, Qatar
+1166,Sahara Hotel,Bethlehem,4.0,2016,5.0, Qatar
+1167,Sahara Hotel,Bethlehem,4.0,2015,5.0,Norway
+1168,Sahara Hotel,Bethlehem,4.0,2015,4.0,United Kingdom
+1169,Sahara Hotel,Bethlehem,4.0,2014,4.0, Norway
+1170,Palestine Plaza Hotel,Ramallah,4.0,2017,2.0, Israel
+1171,Palestine Plaza Hotel,Ramallah,4.0,2016,3.0, Palestinian Territories
+1172,Palestine Plaza Hotel,Ramallah,4.0,2016,2.0, Jordan
+1173,Palestine Plaza Hotel,Ramallah,4.0,2016,5.0, United Kingdom
+1174,Palestine Plaza Hotel,Ramallah,4.0,2017,2.0, Israel
+1175,Palestine Plaza Hotel,Ramallah,4.0,2016,3.0, Palestinian Territories
+1176,Palestine Plaza Hotel,Ramallah,4.0,2016,2.0, Jordan
+1177,Palestine Plaza Hotel,Ramallah,4.0,2016,5.0, United Kingdom
+1178,Palestine Plaza Hotel,Ramallah,4.0,2017,2.0, Israel
+1179,Palestine Plaza Hotel,Ramallah,4.0,2016,3.0, Palestinian Territories
+1180,Palestine Plaza Hotel,Ramallah,4.0,2016,2.0, Jordan
+1181,Palestine Plaza Hotel,Ramallah,4.0,2016,5.0, United Kingdom
+1182,Palestine Plaza Hotel,Ramallah,4.0,2017,2.0, Israel
+1183,Palestine Plaza Hotel,Ramallah,4.0,2016,3.0, Palestinian Territories
+1184,Palestine Plaza Hotel,Ramallah,4.0,2016,2.0, Jordan
+1185,Palestine Plaza Hotel,Ramallah,4.0,2016,5.0, United Kingdom
